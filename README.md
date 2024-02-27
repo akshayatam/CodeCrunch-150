@@ -15,7 +15,7 @@ Why settle for one when you can master three? Whether you're a seasoned coder lo
 
 🚧 Progress:
 - [x] Day 1: Let's Start
-- [ ] Day 2: Streak Started
+- [x] Day 2: Streak Started
 - [ ] Day 3: Gaining Momentum
 - [ ] Day 4: In the Groove
 - [ ] Day 5: Week 1 Warrior
