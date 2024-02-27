@@ -23,21 +23,21 @@ Why settle for one when you can master three? Whether you're a seasoned coder lo
 - [ ] Day 7: One Week Strong
 - [ ] Day 8: Mastery in Motion
 - [ ] Day 9: Code Conqueror
-- [] Day 10: Double Digits Dive
-- [] Day 11: Elevating Expertise
-- [] Day 12: Halfway to Hero
-- [] Day 13: Unlucky? Not Us!
-- [] Day 14: Two Weeks Triumph
-- [] Day 15: Midway Mastermind
-- [] Day 16: Sweet Sixteen
-- [] Day 17: Steadfast Solver
-- [] Day 18: Eighteen & Adept
-- [] Day 19: Nearing the Apex
-- [] Day 20: Two-Thirds Titan
-- [] Day 21: Three-Week Thriver
-- [] Day 22: Countdown Commenced
-- [] Day 23: Penultimate Push
-- [] Day 24: Almost There
-- [] Day 25: Victory Lap
+- [ ] Day 10: Double Digits Dive
+- [ ] Day 11: Elevating Expertise
+- [ ] Day 12: Halfway to Hero
+- [ ] Day 13: Unlucky? Not Us!
+- [ ] Day 14: Two Weeks Triumph
+- [ ] Day 15: Midway Mastermind
+- [ ] Day 16: Sweet Sixteen
+- [ ] Day 17: Steadfast Solver
+- [ ] Day 18: Eighteen & Adept
+- [ ] Day 19: Nearing the Apex
+- [ ] Day 20: Two-Thirds Titan
+- [ ] Day 21: Three-Week Thriver
+- [ ] Day 22: Countdown Commenced
+- [ ] Day 23: Penultimate Push
+- [ ] Day 24: Almost There
+- [ ] Day 25: Victory Lap
 
 Join me on this coding adventure as we decode the mysteries of algorithms together. Let's push the boundaries of what we can achieve with code, one day and three problems at a time. Ready to level up your coding game? Let's get cracking!"
