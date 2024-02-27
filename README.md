@@ -2,9 +2,9 @@
 
 "Triple-Threat Coding Quest: Mastering Algorithms in Python, Go, and C++ 🚀
 
-Welcome to the ultimate coding journey where algorithms meet diversity! 🌈 This repository is your daily dose of coding vitamins, designed to turbocharge your problem-solving skills and prepare you for the coding challenges ahead. Every day, I'll be diving deep into the heart of algorithms, solving three LeetCode 75 problems across four different languages: Python 🐍, Go 🚀, and C++ 💻! Possibly the intriguing Mojolang 🔥.
+Welcome to the ultimate coding journey where algorithms meet diversity! 🌈 This repository is your daily dose of coding vitamins, designed to turbocharge your problem-solving skills and prepare you for the coding challenges ahead. Every day, I'll be diving deep into the heart of algorithms, solving three LeetCode 75 problems across three different languages: Python 🐍, Go 🚀, and C++ 💻!
 
-Why settle for one when you can master four? Whether you're a seasoned coder looking to polish your skills in multiple languages, a newbie eager to learn the ropes, or somewhere in between, this repository is for you. From arrays to graphs, and everything in between, we're covering the full spectrum of algorithmic challenges.
+Why settle for one when you can master three? Whether you're a seasoned coder looking to polish your skills in multiple languages, a newbie eager to learn the ropes, or somewhere in between, this repository is for you. From arrays to graphs, and everything in between, we're covering the full spectrum of algorithmic challenges.
 
 🔥 Features:
 
