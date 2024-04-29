@@ -14,7 +14,7 @@ This repository will be divided into sections which will be divided based on the
 🚧 Progress:
 - [x] Arrays & Hashing (9/9)
 - [x] Two Pointers (5/5)
-- [ ] Stack (1/7)
+- [ ] Stack (4/7)
 - [ ] Binary Search
 - [ ] Sliding Window
 - [ ] Linked List
